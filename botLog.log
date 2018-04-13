@@ -1,0 +1,252 @@
+TelegramBotImageSearch.py[LINE:63]# INFO     [2018-04-13 04:12:49,815]  Start the bot.
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:12:49,823]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:13,256]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 23
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:33,500]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 23
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:38,273]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 507
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:38,282]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:38,619]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D1%8F+%D1%82%D0%B2%D0%BE%D0%B9+%D0%B1%D0%BE%D1%82.+%D0%92%D0%B2%D0%B5%D0%B4%D0%B8+%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81+%D0%B4%D0%BB%D1%8F+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F&chat_id=390457815 HTTP/1.1" 200 592
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:44,612]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=571904503 HTTP/1.1" 200 447
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:44,717]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%B9%D1%82%D0%B5%2C+%D0%BC%D1%8B+%D0%B8%D1%89%D0%B5%D0%BC+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D1%83&chat_id=390457815 HTTP/1.1" 200 486
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:44,723]  Starting new HTTPS connection (1): www.google.ru
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:45,078]  https://www.google.ru:443 "GET /search?q=Text&newwindow=1&source=lnms&tbm=isch HTTP/1.1" 200 None
+sbcharsetprober.py[LINE:119]# DEBUG    [2018-04-13 04:13:49,444]  ISO-8859-7 confidence = 0.0, below negative shortcut threshhold 0.05
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,976]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  EUC-TW Taiwan confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  windows-1251 Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  KOI8-R Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  ISO-8859-5 Russian confidence = 0.100286054777
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  MacCyrillic Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  IBM866 Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,977]  IBM855 Russian confidence = 0.0848576381828
+charsetgroupprober.py[LINE:97]# DEBUG    [2018-04-13 04:13:53,977]  ISO-8859-7 not active
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  windows-1253 Greek confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  ISO-8859-5 Bulgairan confidence = 0.139081570143
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  windows-1251 Bulgarian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  TIS-620 Thai confidence = 0.167368999054
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  ISO-8859-9 Turkish confidence = 0.307911561735
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,979]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:13:53,980]  EUC-TW Taiwan confidence = 0.01
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:54,157]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:54,519]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSCE3W_j-UVx8M4RQUIUC4Co0NIMLPkRc3bRv4wsoG48nskdAa9 HTTP/1.1" 200 2585
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:54,812]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:54,812]  STREAM 'PLTE' 41 105
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:54,812]  STREAM 'IDAT' 158 2411
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:54,821]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:55,033]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcR_pXRUnInfyCqc-ilcXdwY8Oy7KZrxDwaGvhKJy3LxUXwXzpGI HTTP/1.1" 200 17478
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:55,081]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:55,286]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSw3NchB3DTrUo2Ri5PUItNeyn-oMgdhffmXS5TjJN4XeDVqsKD HTTP/1.1" 200 14450
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:55,322]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:55,565]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRNPD2nKcat5s6XFDvhUu2IGSED0lkD-b2bF-5DnYlgbLmrKYgM6w HTTP/1.1" 200 19192
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:55,612]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:55,816]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSQhMiYxzwEQGgKiqvNmhNx20inDKUOmkX9973kvRfqSmPF5Znpgg HTTP/1.1" 200 3545
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:55,819]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:55,821]  STREAM 'PLTE' 41 144
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:55,821]  STREAM 'IDAT' 197 3332
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:55,829]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:56,046]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcS2LtMhh56CDDL3fkeJThY9GDptI5l5-ognZQoNBzHSZqsDboCm HTTP/1.1" 200 5336
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,051]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,051]  STREAM 'PLTE' 41 144
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,051]  STREAM 'IDAT' 197 5123
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:56,062]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:56,269]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcR2J1MecN_T0Vvvndl3kSPQWjSQnWU0onc3eO6RcClJSiATGOs86Q HTTP/1.1" 200 21227
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:56,315]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:56,526]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTaDKsCzxDB1SyqWZEOo2XLhviqZyD0r1JLeZDm1SBLIt1riaYD5w HTTP/1.1" 200 4987
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,530]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,530]  STREAM 'PLTE' 41 129
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,532]  STREAM 'IDAT' 182 4789
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:56,542]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:56,757]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQZaqLhhkJtjQx-h40lj84WdAPRSm8YIK7YdfvI9_jSpPuProqX HTTP/1.1" 200 10116
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,766]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,766]  STREAM 'PLTE' 41 243
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:56,766]  STREAM 'IDAT' 296 8192
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:13:56,773]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:56,986]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQJqpHTFqrpGvEAk6z48XDigHMPH7VRz2ueXbqpTGX3j9PtggW0BA HTTP/1.1" 200 18556
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:57,017]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:57,019]  STREAM 'PLTE' 41 153
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:13:57,019]  STREAM 'IDAT' 206 8192
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:57,184]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 567
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:57,499]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 683
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:57,638]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 567
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:57,924]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 569
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,032]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 678
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,148]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 567
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,289]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 567
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,415]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 676
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,551]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 569
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:13:58,690]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:14:04,696]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=571904504 HTTP/1.1" 200 23
+TelegramBotImageSearch.py[LINE:63]# INFO     [2018-04-13 04:22:05,282]  Start the bot.
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:05,313]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:22,927]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 506
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:22,947]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:23,331]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D1%85+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%3A+%2Fstart%2C+%2Fabout&chat_id=390457815 HTTP/1.1" 200 561
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:29,276]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=571904505 HTTP/1.1" 200 507
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:29,283]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:29,614]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D1%8F+%D1%82%D0%B2%D0%BE%D0%B9+%D0%B1%D0%BE%D1%82.+%D0%92%D0%B2%D0%B5%D0%B4%D0%B8+%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81+%D0%B4%D0%BB%D1%8F+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F&chat_id=390457815 HTTP/1.1" 200 592
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:36,532]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=571904506 HTTP/1.1" 200 449
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:36,687]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%B9%D1%82%D0%B5%2C+%D0%BC%D1%8B+%D0%B8%D1%89%D0%B5%D0%BC+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D1%83&chat_id=390457815 HTTP/1.1" 200 486
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:36,690]  Starting new HTTPS connection (1): www.google.ru
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:37,023]  https://www.google.ru:443 "GET /search?q=Number&newwindow=1&source=lnms&tbm=isch HTTP/1.1" 200 None
+sbcharsetprober.py[LINE:119]# DEBUG    [2018-04-13 04:22:41,726]  ISO-8859-7 confidence = 0.0, below negative shortcut threshhold 0.05
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,341]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,341]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,341]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,341]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  EUC-TW Taiwan confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  windows-1251 Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  KOI8-R Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  ISO-8859-5 Russian confidence = 0.0999833329738
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  MacCyrillic Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  IBM866 Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  IBM855 Russian confidence = 0.0874127198334
+charsetgroupprober.py[LINE:97]# DEBUG    [2018-04-13 04:22:46,342]  ISO-8859-7 not active
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  windows-1253 Greek confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  ISO-8859-5 Bulgairan confidence = 0.139380655191
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  windows-1251 Bulgarian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  TIS-620 Thai confidence = 0.167765458744
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  ISO-8859-9 Turkish confidence = 0.307560745016
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,342]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,344]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:22:46,345]  EUC-TW Taiwan confidence = 0.01
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:46,536]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:46,760]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQkeEplewsecyrhfxZPA3ea1iIVr8ASy1osMBe_PmSWP9gVv9LQog HTTP/1.1" 200 17230
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:46,835]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:47,049]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSghRuOGQPYCQe-iyhuCa9D9TV6KkRAZOv-yei9eWaHrLQ6h-SAVQ HTTP/1.1" 200 4786
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,053]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,053]  STREAM 'PLTE' 41 132
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,053]  STREAM 'IDAT' 185 4585
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:47,065]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:47,267]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSfwlauTzn2QdyDXUkmMhiH0J3ZtYAwdlIJTu2vPE91HDXix7ES HTTP/1.1" 200 14016
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:47,282]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:47,471]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRFydt_XDoe9XrIvBSd1tyGycA8NAykToo3Fy9izJUEjlnR2cglZg HTTP/1.1" 200 11609
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,480]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,482]  STREAM 'PLTE' 41 135
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,482]  STREAM 'IDAT' 188 8192
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:47,492]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:47,700]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQICyYE07o6HIIRZWhKgeY5KyFhMPI30BaJC71nk688Q4SLcWGgjw HTTP/1.1" 200 17797
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:47,739]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:47,940]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRA_L-ZD5OTEyna7GxPeVxxemlwuxQjMnD5UIHJBgtlLh63gPG2 HTTP/1.1" 200 6487
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,946]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,946]  STREAM 'PLTE' 41 132
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:47,946]  STREAM 'IDAT' 185 6286
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:47,953]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:48,141]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRm4gAb7536Li75oSlBxOsHerkxlOX4-AcJ6tSf7KPO3tQejVcVQw HTTP/1.1" 200 10772
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:48,158]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:48,369]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQU7pzhtp94C-yPHyEw45O0AdEHCJ_g5eIqc7TJ2Tmg_cyHjSnUYw HTTP/1.1" 200 9767
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:48,384]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:48,598]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTLQiht1tmyTobFWzHvuFEDfYrhcjRcvoXojOm5aTQ01nhYDoqV HTTP/1.1" 200 3296
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:48,601]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:48,601]  STREAM 'PLTE' 41 279
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:22:48,601]  STREAM 'IDAT' 332 2948
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:22:48,608]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:48,819]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQk8fQQR6SB2SzH2SPQDY6FKqbEnTp8vFtNH0ncNrofDazUOGXV HTTP/1.1" 200 17981
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,138]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,312]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,459]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,611]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 535
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,823]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 536
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:49,957]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:50,121]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 536
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:50,253]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 536
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:50,437]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 534
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:22:50,631]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 536
+TelegramBotImageSearch.py[LINE:63]# INFO     [2018-04-13 04:24:37,855]  Start the bot.
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:24:37,865]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:24:52,921]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 447
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:24:52,973]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:24:53,311]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendMessage?text=%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%B9%D1%82%D0%B5%2C+%D0%BC%D1%8B+%D0%B8%D1%89%D0%B5%D0%BC+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D1%83&chat_id=390457815 HTTP/1.1" 200 487
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:24:53,315]  Starting new HTTPS connection (1): www.google.ru
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:24:53,648]  https://www.google.ru:443 "GET /search?q=Lol&newwindow=1&source=lnms&tbm=isch HTTP/1.1" 200 None
+sbcharsetprober.py[LINE:119]# DEBUG    [2018-04-13 04:24:58,138]  ISO-8859-7 confidence = 0.0, below negative shortcut threshhold 0.05
+sbcharsetprober.py[LINE:119]# DEBUG    [2018-04-13 04:24:58,371]  windows-1253 confidence = 0.0, below negative shortcut threshhold 0.05
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,601]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  EUC-TW Taiwan confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  windows-1251 Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,602]  KOI8-R Russian confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  ISO-8859-5 Russian confidence = 0.0924494174039
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  MacCyrillic Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  IBM866 Russian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  IBM855 Russian confidence = 0.0737449815156
+charsetgroupprober.py[LINE:97]# DEBUG    [2018-04-13 04:25:02,604]  ISO-8859-7 not active
+charsetgroupprober.py[LINE:97]# DEBUG    [2018-04-13 04:25:02,604]  windows-1253 not active
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  ISO-8859-5 Bulgairan confidence = 0.130096200438
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,604]  windows-1251 Bulgarian confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  TIS-620 Thai confidence = 0.175001403469
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  ISO-8859-9 Turkish confidence = 0.299426373298
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  utf-8  confidence = 0.99
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  GB2312 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  EUC-KR Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  CP949 Korean confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  Big5 Chinese confidence = 0.01
+charsetgroupprober.py[LINE:100]# DEBUG    [2018-04-13 04:25:02,605]  EUC-TW Taiwan confidence = 0.01
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:02,805]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:03,020]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTB3m7Hn5jJr2paUm23_O_b50CxebML0E5l4bxOMbUC3mXK6bM8 HTTP/1.1" 200 17596
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:03,101]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:03,302]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTRZtCH_Up85eKZuc_ipwO863737zwHz3PO79kB8MKskRSW6hPGdA HTTP/1.1" 200 7371
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:03,313]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:04,259]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRdUZ3zUIAR12tG3WTp9_O4XYUYOD1dekL5L1ZAfize_pnfATeP HTTP/1.1" 200 9583
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:04,273]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:04,476]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTt-T6VMeknMNsyD4K-CH9N2Jqg8SZPf3YPNhUt9CiU-wEaibgd HTTP/1.1" 200 16411
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:25:04,506]  STREAM 'IHDR' 16 13
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:25:04,506]  STREAM 'PLTE' 41 507
+PngImagePlugin.py[LINE:138]# DEBUG    [2018-04-13 04:25:04,506]  STREAM 'IDAT' 560 8192
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:04,530]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:04,734]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcRq3CzUU0vX781Ov23dB0iPlsdIlV1IsEhzxTsHBSCQMQR1ZnsB HTTP/1.1" 200 9795
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:04,756]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:04,963]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcT_1bxYXHWqFhPFvrBzFXcr_z8CsoJ1_JN3RMeHKIpELIIpnnS7_A HTTP/1.1" 200 9889
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:05,009]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:05,230]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcS9ADseyWHmrRo8dvkmYYgDbsqvYBDOIKDBD1pJtYAtD83ewBSy HTTP/1.1" 200 5656
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:05,244]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:05,450]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcTsTbczwGRNsm1_BJqg3W6KG2M73tkHXzYvPytNKSo9v2T4b1s1 HTTP/1.1" 200 8327
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:05,463]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:05,671]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcQKA7BnlgKcfPynEOVYZlNsbJj7nP3w2HEDTnVZsUDx4NfDbBW0Mg HTTP/1.1" 200 11045
+connectionpool.py[LINE:824]# DEBUG    [2018-04-13 04:25:05,691]  Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:05,895]  https://encrypted-tbn0.gstatic.com:443 "GET /images?q=tbn:ANd9GcSqf5cEj0XMq5sqwWCXzqGPuYSwKggze2rWudpPj2-ADTHesQQ9RQ HTTP/1.1" 200 6050
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:06,226]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 540
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:06,398]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 535
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:06,634]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 538
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:06,776]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 536
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:06,934]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 535
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:07,107]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 538
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:07,259]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:07,415]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 537
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:07,556]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 538
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:07,719]  https://api.telegram.org:443 "POST /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/sendPhoto?chat_id=390457815 HTTP/1.1" 200 539
+connectionpool.py[LINE:396]# DEBUG    [2018-04-13 04:25:17,108]  https://api.telegram.org:443 "GET /bot592736831:AAFIIjbmQH7gC_8cKRgUR6Ga0wh3Sel3tK8/getUpdates?timeout=20&offset=571904508 HTTP/1.1" 200 23
